@@ -1,0 +1,10 @@
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\bin\Debug\TRACEROUT.exe.config
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\bin\Debug\TRACEROUT.exe
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\bin\Debug\TRACEROUT.pdb
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\obj\Debug\TRACEROUT.csprojAssemblyReference.cache
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\obj\Debug\TRACEROUT.Form1.resources
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\obj\Debug\TRACEROUT.Properties.Resources.resources
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\obj\Debug\TRACEROUT.csproj.GenerateResource.cache
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\obj\Debug\TRACEROUT.csproj.CoreCompileInputs.cache
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\obj\Debug\TRACEROUT.exe
+C:\Users\zaben\Desktop\КСИС\ЛБ 1\TRACEROUT\obj\Debug\TRACEROUT.pdb
